@@ -4,7 +4,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 pygments: true
 
-production_url : http://pnts.github.com
+production_url : http://trishdeitch.github.io
 
 paginate: 5
 
